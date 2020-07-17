@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484578579 source:c:\users\filip\desktop\studia\pop\projekt 2\projekt2\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
